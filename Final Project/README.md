@@ -1,6 +1,6 @@
 About The Game
 
-The gameplay is quite simple, you are the sandwich and you must avoid the heavies to survive! 
+The gameplay is quite simple, you are the sandwich and you must avoid the increasing number of heavies to survive! 
 when a Heavy hits the edge of the screen, you get some survival points, 
 seek the highest score you can!
 
@@ -25,7 +25,7 @@ SOURCES
 inspiration code 
 https://github.com/igorbdamata/Avoid 
 
-Sentry Fortress
+Sentry Fortress (very loud)
 https://newgrounds.com/portal/view/446689
 
 Team Fortress 2
